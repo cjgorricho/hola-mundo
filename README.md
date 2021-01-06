@@ -1,2 +1,6 @@
 # hola-mundo
-Para Peactica de go
+
+Hola humanos:
+
+Estoy en mi practica de hubo,
+despu'e de un delicioso almuerzo.
